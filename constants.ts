@@ -8,7 +8,7 @@ export const HERO_IMAGE_URL = "https://drive.google.com/thumbnail?id=17vil_U8t8G
 
 // Video ID extracted from: https://drive.google.com/file/d/1AllJwDQ3l-kjlE_aCi8o8A94_CMVixvO/view?usp=drive_link
 // We use the /preview endpoint for iframes
-export const VIDEO_EMBED_URL = "https://drive.google.com/file/d/1ZVoU0HehTZSNww8sBmqdVe-yRRUIYgr_/view?usp=drivesdk"; 
+export const VIDEO_EMBED_URL = "https://drive.google.com/file/d/1ZVoU0HehTZSNww8sBmqdVe-yRRUIYgr_"; 
 
 // The WhatsApp link
 // Format: https://wa.me/YOUR_NUMBER?text=URL_ENCODED_MESSAGE
